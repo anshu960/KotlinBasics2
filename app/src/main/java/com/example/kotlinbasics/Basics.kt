@@ -2,7 +2,7 @@ package com.example.kotlinbasics
 
 fun main(){
     // TODO: Add new functionality
-   println("Hello World")
+  //Ansh println("Hello World")
 
     hello()
 
